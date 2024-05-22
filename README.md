@@ -3,7 +3,7 @@
 ##Futtatás##
 1. Töltsük le az alábbi oldalról a mingw/gcc compilert. https://winlibs.com/#download-release
 2. Csomagoljuk ki arra a drive-ra ahol a rendszer is található.
-3. Adjuk hozzá a mingw64\bin elérési útvonalat a környezeti változókhoz.
+3. Adjuk hozzá a mingw64\bin elérési útvonalát a rendszer környezeti változóihoz.
 4. Töltsük le a main.c filet a repositoryból, majd nyissuk meg az elérési útvonalát.
 5. Indítsuk el a file-ban a command promptot, majd írjuk be a következőt: "gcc main.c"
 6. Ezután írjuk be, hogy ".\a.exe".
